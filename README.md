@@ -1,2 +1,2 @@
 # neuro-spatial-contrast
-exploration of spatial contrast for classification and localization
+Exploration of Spatial Contrast (SC) for classification and localization
