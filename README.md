@@ -3,6 +3,8 @@ Exploration of Spatial Contrast (SC) for classification and localization
 
 # Spatial Contrast on a Full Driving Scene
 
+## Baseline-RGB
+![](Baseline-RGB.gif)
 ## Relative-0.02
 ![](Relative-0.02.gif)
 ## Relative-0.03
